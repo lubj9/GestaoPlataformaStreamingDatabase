@@ -1,5 +1,5 @@
 # GestaoPlataformaStreamingDatabase
-Sistema de Gestão de Plataforma de Streaming​. 
+Sistema de Gestão de Plataforma de Streaming​ <br>
 Contem Descricao do Sistema <br>
 Modelo entidade-relacionamento <br>
 Modelo Relacional <br>
